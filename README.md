@@ -66,10 +66,3 @@ python main.py
 ```bash
 jupyter notebook notebooks/analysis.ipynb
 ```
-### Next Step
-Once you save this file, you are ready to initialize git and push your project!
-
-```bash
-git init
-git add .
-git commit -m "Initial commit: Macro-Economic Sector Analysis Pipeline"
