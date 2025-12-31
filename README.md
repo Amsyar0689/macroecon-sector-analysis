@@ -43,7 +43,7 @@ Using a custom ETL pipeline, it processes 20+ years of economic data to identify
 
 1.  **Clone the repository**
 ```bash
-git clone [https://github.com/YOUR_USERNAME/macro-sector-analysis.git](https://github.com/YOUR_USERNAME/macro-sector-analysis.git)
+git clone [https://github.com/Amsyar0689/macro-sector-analysis.git](https://github.com/Amsyar0689/macro-sector-analysis.git)
 cd macro-sector-analysis
 ```
 
